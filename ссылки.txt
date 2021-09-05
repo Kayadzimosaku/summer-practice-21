@@ -1,0 +1,7 @@
+*	https://github.com/Murcha1990/Activities-analysis	<= гитхаб
+*	https://www.kaggle.com/c/activity-analysis	<= ссылка на мо соревнование
+*	https://disk.yandex.ru/d/x4o94-Dtp8yD_Q		<= тестовые данные
+*	https://www.dropbox.com/request/WPBtTDuuJgLXM5ymqamu	<= дз по визуализации
+*	https://youtube.com/playlist?list=PLEwK9wdS5g0r_3TssBxx7p9mZNsRFMHXd	<= плейлист
+*	https://www.dropbox.com/sh/i51by12ooqb1liy/AAD3VqlyoZrf3P9z-xCAunaIa?dl=0	<= что есть в открытой папке
+*	
